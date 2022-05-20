@@ -1,7 +1,7 @@
 ## Olá, eu sou Jonatas "*Solus*" Canuto
-- 👀 Estou em busca o meu primeiro emprego na área e aplicar o que tenho aprendido
-- 🌱 Estudando *Javascript* | *ReactJS* | *Java* | *Python* | *Typescript*
-- 💞️ Participando do curso de Big Data Engineer da Semantix
+- 👀 Estou em busca o meu primeiro emprego na área e aplicar o que tenho aprendido.
+- 🌱 Estudando *Javascript* | *ReactJS* | *Python* | *Big Data*
+- 💞️ Atualmente cursando Big Data Science na Semantix Academy, Hiring Coders 3 na Gama Academy e Bootcamp TQI Fullstack developer na Digital Inovation One.
 <div align="center">
   <a href="https://github.com/jonatasac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasac&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
@@ -12,8 +12,8 @@
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jon-Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="right" alt="Jon-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761149a73916efe957e103225c92d121d133f345752f&rid=giphy.gif&ct=g">
 </div>
 
