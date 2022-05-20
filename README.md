@@ -18,7 +18,7 @@
   <img align="center" alt="Jon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jon-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="right" alt="Jon-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761149a73916efe957e103225c92d121d133f345752f&rid=giphy.gif&ct=g">
+  <img align="right" alt="Jon-pic" height="150" style="border-radius:50px;" src="https://www.mexidodeideias.com.br/wp-content/uploads//2013/04/Melhores-gifs-cafeinados-3.gif">
 </div>
 
   ## 
