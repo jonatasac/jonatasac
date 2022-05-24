@@ -3,9 +3,9 @@
 - 🌱 Estudando *Javascript* | *ReactJS* | *Python* | *Docker e Docker compose*
 - 💞️ Atualmente cursando:
   - Big Data Science na Semantix Academy
-  - Hiring Coders 3 na Gama Academy
-  - Bootcamp TQI Fullstack developer na Digital Inovation One.
-  - Imersão dados 4 na Alura
+  - [Hiring Coders 3 na Gama Academy](https://github.com/jonatasac/Hiring-Coders)
+  - [Bootcamp TQI Fullstack developer na Digital Inovation One.](https://github.com/jonatasac/Guia-de-estudo-na-DIO)
+  - [Imersão dados 4 na Alura](https://github.com/jonatasac/imersao_dados4)
 <div align="center">
   <a href="https://github.com/jonatasac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasac&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
