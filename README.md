@@ -5,6 +5,7 @@
   - Big Data Science na Semantix Academy
   - Hiring Coders 3 na Gama Academy
   - Bootcamp TQI Fullstack developer na Digital Inovation One.
+  - Imers
 <div align="center">
   <a href="https://github.com/jonatasac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasac&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
