@@ -2,8 +2,8 @@
 - 👀 Estou em busca o meu primeiro emprego na área e aplicar o que tenho aprendido.
 - 🌱 Estudando *HTML* | *CSS* | *Javascript* | 
 - 💞️ Atualmente cursando:
-  - Oracle Next Inovation na Alura
-  - [Digital Inovation One.](https://github.com/jonatasac/Guia-de-estudo-na-DIO)
+  - [Oracle Next Inovation na Alura](https://github.com/jonatasac/ONE-ALURA)
+  - [Digital Inovation One](https://github.com/jonatasac/Guia-de-estudo-na-DIO)
 <div align="center">
   <a href="https://github.com/jonatasac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasac&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
