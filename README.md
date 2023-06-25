@@ -1,5 +1,5 @@
 ## <div align="center"> Jonatas "*Solus*" Canuto </div> 
-- 👀 Estou em busca o meu primeiro emprego na área e aplicar o que tenho aprendido.
+- 👀 Estou em busca do meu primeiro emprego na área e aplicar o que tenho aprendido.
 - 🌱 Estudando *HTML* | *CSS* | *Javascript* | *Python* | *Java*
 - 💞️ Atualmente cursando:
   - Análise e Desenvolvimento de Sistemas na UNINTER
